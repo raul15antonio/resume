@@ -11,6 +11,7 @@ Relevant Courses: Object-Oriented Programming, Operating Systems,Computer Organi
 
 ### Affiliations
 National Honor Society (NHS), 2022
+
 National Society of Leadership and Success (NSLS), Member since 2025
 
 ### Skills
