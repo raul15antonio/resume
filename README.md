@@ -22,6 +22,7 @@ Professional Interest: Data Science, Pharmaceutical Data Analysis, Health Inform
 
 ### Languages
 Spanish (Native)
+
 English (Professional Proficiency)
 
 
