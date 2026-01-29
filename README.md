@@ -1,7 +1,7 @@
 # Raul A. Vivaldi Santana
 
 ## Objective
-Dedicated third-year Computer Science student at the University of Puerto Rico at Mayagüez, with a strong foundation in programming and data analysis tools. Seeking to apply technical skills to the innovative field of pharmaceutical data science, combining data analysis, programming, and computational thinking to support research and development in the healthcare sector.
+Dedicated third-year Computer Science student at the University of Puerto Rico at Mayagüez, with a strong foundation in programming and data analysis tools. Seeking to apply technical skills to the innovative field of pharmaceutical data science, combining data analysis, programming, and computational thinking to support research and development in the healthcare department.
 
 ### Education
 Bachelors in Computer Science, University of Puerto Rico, Mayaguez
