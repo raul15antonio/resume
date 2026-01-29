@@ -10,6 +10,7 @@ Bachelors in Computer Science, University of Puerto Rico, Mayaguez
 Relevant Courses: Object-Oriented Programming, Operating Systems,Computer Organization, Discrete Math, Statistical Data Analysis
 
 ### Affiliations
+National Honor Society (NHS), 2022
 National Society of Leadership and Success (NSLS), Member since 2025
 
 ### Skills
